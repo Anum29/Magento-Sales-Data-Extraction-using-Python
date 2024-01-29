@@ -23,3 +23,8 @@ Execute the script by running the following command in your terminal:
 ```bash
 magento_sales_stats.py
 ```
+
+## Output
+The script will connect to the specified database, execute a SQL query to retrieve sales statistics, and display the results in a Pandas DataFrame.
+
+
