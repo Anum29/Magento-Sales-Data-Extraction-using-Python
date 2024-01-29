@@ -21,7 +21,7 @@ Before running the script, ensure you have the following dependencies installed:
 Execute the script by running the following command in your terminal:
 
 ```bash
-magento_sales_stats.py
+magento_sales_data.py
 ```
 
 ## Output
